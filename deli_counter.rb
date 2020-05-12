@@ -1,8 +1,5 @@
 katz_deli = ["Tommy", "Sarah", "Bill"] #Random names
 
-
-
-
 def line_simple(array)
   current_line = "The simple line is currently:"
   array.each.with_index(1) do |value, indexemus|  
